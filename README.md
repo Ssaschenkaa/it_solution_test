@@ -46,8 +46,8 @@
 1. Клонировать репозиторий:
 
    ```
-   git clone https://github.com/ваш-репозиторий.git
-   cd ваш-репозиторий
+   git clone git@github.com:Ssaschenkaa/it_solution_test.git
+   cd it_solution_test
 
    ```
 
@@ -69,6 +69,7 @@
 4. Применить миграции:
 
    ```
+   cd dds_manager
    python manage.py migrate
 
    ```
